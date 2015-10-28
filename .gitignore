@@ -1,0 +1,9 @@
+.idea
+/build/
+/vendor/
+/deploy.yml
+/app/config/config.yml
+/app/logs/*
+/app/cache/*
+/bin/*
+!/bin/skype*
